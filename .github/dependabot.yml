@@ -8,3 +8,11 @@ updates:
     directory: /
     schedule:
       interval: monthly
+  - package-ecosystem: npm
+    directory: /packages/newman-reporter-testomatio
+    schedule:
+      interval: monthly
+  - package-ecosystem: npm
+    directory: /packages/testcafe
+    schedule:
+      interval: monthly
