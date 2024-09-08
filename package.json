@@ -61,7 +61,7 @@
     "test:storage": "npx mocha tests-storage/artifact-storage.test.js && npx mocha tests-storage/data-storage.test.js && TESTOMATIO_INTERCEPT_CONSOLE_LOGS=true npx mocha tests-storage/logger.test.js && npx mocha tests-storage/logger-2.test.js && npx mocha tests-storage/reporter-functions.test.js"
   },
   "devDependencies": {
-    "@cucumber/cucumber": "^9.3.0",
+    "@cucumber/cucumber": "^11.0.0",
     "@redocly/cli": "^1.0.0-beta.125",
     "@wdio/reporter": "^7.16.13",
     "chai": "^4.3.6",
