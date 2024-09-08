@@ -13,7 +13,7 @@
     "@octokit/rest": "^19.0.5",
     "aws-sdk": "^2.1072.0",
     "axios": "^1.6.2",
-    "axios-retry": "^3.9.1",
+    "axios-retry": "^4.5.0",
     "callsite-record": "^4.1.4",
     "chalk": "^4.1.0",
     "commander": "^12.1.0",
