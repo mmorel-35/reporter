@@ -78,7 +78,7 @@
     "mock-http-server": "^1.4.5",
     "pino": "^9.4.0",
     "prettier": "^3.2.5",
-    "puppeteer": "^22.15.0"
+    "puppeteer": "^23.3.0"
   },
   "bin": {
     "report-xml": "./lib/bin/reportXml.js",
